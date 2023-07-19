@@ -1,7 +1,7 @@
 package day04;
 
 import java.util.ArrayList;
-
+//modlog
 public class Student_Arraylist {
 	float sum;
 	public void ArrayList(){
